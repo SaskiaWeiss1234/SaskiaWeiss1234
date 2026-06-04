@@ -1,3 +1,4 @@
+![alt My favorite place to be](https://preview.redd.it/hobbington-new-zealand-v0-s58y2b9k4og11.jpg?width=1080&crop=smart&auto=webp&s=425feb8d025c421c0f8cecd91c9a809cc4b33883)
 # Hi, I am Saskia!
 
 IT- Supporter, working on becoming a Web Developer . Actively working on broadening my expertise in JS and HTML . As a bloody beginner I am no assistance to anyone at this point in time, but I am certain  that will change as time passes. 
