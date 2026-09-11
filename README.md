@@ -5,7 +5,7 @@ IT- Supporter, working on becoming a Web Developer . Actively working on broaden
 
 Crazy cat lady in making if I commit to buying yet another cat. Love Videogames and riddles, although I am not very good at either of them. 
 
-| Speacial  | Attributes |
+| Special  | Attributes |
 | ------------ | ----------- |
 | Strength | 4 |
 | Perception | 5 |
